@@ -1,0 +1,10 @@
+text=input('What should cat say?')
+text_len=len(text)
+
+print('             {}'.format('_' * text_len))
+print('            <{}>'.format(text))
+print('             {}'.format('-' * text_len))
+print('            /')
+print(' /\_/\     /')
+print('( o.o )  /')
+print(' > ^ <')
